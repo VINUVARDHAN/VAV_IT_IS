@@ -1,0 +1,4 @@
+Check node version : node -v
+To create a package.json : npm init -y
+start the server : node server.js
+to install lib : npm install express
